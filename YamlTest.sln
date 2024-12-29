@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YamlTest", "YamlTest\YamlTest.csproj", "{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1EDE83-8A36-4BFB-9FC5-6CD0724C4EDC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6CD590-6F19-4A3A-AA8B-2F75D5828C43}
+	EndGlobalSection
+EndGlobal

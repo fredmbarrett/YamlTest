@@ -1,0 +1,67 @@
+YamlTestConfig:
+  DeviceId: 0
+  SensorCalibrations:
+  - SensorTypeName: PPB
+    SensorTypeCode: 97
+    SampleIntervalSeconds: 1
+    StartupDelaySeconds: 0
+    CalibrationFactor: 0
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+  - SensorTypeName: PPB_WR
+    SensorTypeCode: 97
+    SampleIntervalSeconds: 1
+    StartupDelaySeconds: 0
+    CalibrationFactor: 0
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+  - SensorTypeName: PPM
+    SensorTypeCode: 97
+    SampleIntervalSeconds: 1
+    StartupDelaySeconds: 0
+    CalibrationFactor: 0
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+  - SensorTypeName: PPM_WR
+    SensorTypeCode: 97
+    SampleIntervalSeconds: 1
+    StartupDelaySeconds: 0
+    CalibrationFactor: 0
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+  - SensorTypeName: P9300
+    SensorTypeCode: 113
+    SampleIntervalSeconds: 3
+    StartupDelaySeconds: 1
+    CalibrationFactor: 2.5
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+  - SensorTypeName: PLAB
+    SensorTypeCode: 51
+    SampleIntervalSeconds: 3
+    StartupDelaySeconds: 1
+    CalibrationFactor: 2.5
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+  - SensorTypeName: WindSonic60
+    SensorTypeCode: 129
+    SampleIntervalSeconds: 3
+    StartupDelaySeconds: 1
+    CalibrationFactor: 40.5999985
+    ReferenceHigh: 10
+    ReferenceLow: 0
+    RawHigh: 10
+    RawLow: 0
+
